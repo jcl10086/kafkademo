@@ -1,0 +1,2 @@
+# kafkademo
+springboot整合kafka   使用CopyOnWriteArrayList集合来实现多线程下的读写操作
